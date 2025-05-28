@@ -7,6 +7,7 @@ Reproduced experiments of TabPFN and AutoTABPFN models
 PDF     : https://arxiv.org/pdf/2207.01848  
 Github  : https://github.com/PriorLabs/TabPFN  
 
+```bibtex
 @article{hollmann2025tabpfn,
  title={Accurate predictions on small data with a tabular foundation model},
  author={Hollmann, Noah and M{\"u}ller, Samuel and Purucker, Lennart and
